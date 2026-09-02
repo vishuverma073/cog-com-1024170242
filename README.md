@@ -4,24 +4,21 @@ Assignment solutions.
 
 Name: **Vishu Verma**  ·  Roll number: **1024170242**
 
-Folders are numbered the way I submit them, which runs one behind the numbers printed on the
-question papers.
-
-| Folder | Question paper | Topic |
-| --- | --- | --- |
-| [`assignment-1/`](assignment-1/) | Assignment 2 | Python data structures — lists, tuples, sets, dictionaries |
-| [`assignment-2/`](assignment-2/) | Assignment 3 | Pandas — DataFrames, indexing, CSV files, employee dataset |
-| [`assignment-3/`](assignment-3/) | Assignment 4 | A cognitive FAQ system using Pandas (Nova 2.0) |
-| [`assignment-4/`](assignment-4/) | Assignment 5 | NumPy — array creation, indexing, reshape, resize |
-| [`assignment-papers/`](assignment-papers/) | — | The original question papers (PDF) |
+| Folder | Topic |
+| --- | --- |
+| [`assignment-2/`](assignment-2/) | Python data structures — lists, tuples, sets, dictionaries |
+| [`assignment-3/`](assignment-3/) | Pandas — DataFrames, indexing, CSV files, employee dataset |
+| [`assignment-4/`](assignment-4/) | A cognitive FAQ system using Pandas (Nova 2.0) |
+| [`assignment-5/`](assignment-5/) | NumPy — array creation, indexing, reshape, resize |
+| [`assignment-papers/`](assignment-papers/) | The original question papers (PDF) |
 
 Every notebook is saved with its outputs, so the answers can be read without running anything.
 
 ---
 
-## assignment-1 — Python Data Structures (paper: Assignment 2)
+## Assignment 2 — Python Data Structures
 
-[`assignment-1/Cognitive_comp.ipynb`](assignment-1/Cognitive_comp.ipynb)
+[`assignment-2/Cognitive_comp.ipynb`](assignment-2/Cognitive_comp.ipynb)
 
 | Q | Topic |
 | --- | --- |
@@ -34,9 +31,9 @@ Every notebook is saved with its outputs, so the answers can be read without run
 Question 3 seeds `random` with the roll number, so the same 100 numbers come out on every run.
 Questions 2 and 4 ask for input; the saved run used `40` and `28`.
 
-## assignment-2 — Pandas (paper: Assignment 3)
+## Assignment 3 — Pandas
 
-[`assignment-2/Assignment_3_Pandas.ipynb`](assignment-2/Assignment_3_Pandas.ipynb)
+[`assignment-3/Assignment_3_Pandas.ipynb`](assignment-3/Assignment_3_Pandas.ipynb)
 
 | Q | Topic |
 | --- | --- |
@@ -51,9 +48,9 @@ Data files: `Iris.csv` (same columns as the Kaggle `uciml/iris` download, used b
 `employees.csv` (written by Q6), `employees_modified.csv` (written by Q6l with the `Performance`
 and `Tax` columns added).
 
-## assignment-3 — Cognitive FAQ System (paper: Assignment 4)
+## Assignment 4 — Cognitive FAQ System
 
-[`assignment-3/Assignment_4_FAQ_System.ipynb`](assignment-3/Assignment_4_FAQ_System.ipynb)
+[`assignment-4/Assignment_4_FAQ_System.ipynb`](assignment-4/Assignment_4_FAQ_System.ipynb)
 
 | Q | Topic |
 | --- | --- |
@@ -69,9 +66,9 @@ The last two digits of `1024170242` are 4 and 2, so the personalised entries lan
 "how" and "my" before matching, otherwise every entry would look like a match.
 Q4 asks for input; the saved run used `otp`.
 
-## assignment-4 — NumPy (paper: Assignment 5)
+## Assignment 5 — NumPy
 
-[`assignment-4/Assignment_5_NumPy.ipynb`](assignment-4/Assignment_5_NumPy.ipynb)
+[`assignment-5/Assignment_5_NumPy.ipynb`](assignment-5/Assignment_5_NumPy.ipynb)
 
 | Q | Topic |
 | --- | --- |
